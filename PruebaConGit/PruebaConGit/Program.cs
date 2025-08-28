@@ -74,3 +74,5 @@ public class Estudiantes : Personas, IEstudiantes, ISeguros
         return 0.0m;
     }
 }
+//Aqui escribo el codigo principal
+

@@ -76,4 +76,5 @@ public class Estudiantes : Personas, IEstudiantes, ISeguros
 }
 //Aqui escribo el codigo del otro lado
 
-Este es el codigo 2
+Este es el codigo 2 sniuashufasdfasdhfbdsa
+fdasabfghjsadbfhdasbfhjdsabfh

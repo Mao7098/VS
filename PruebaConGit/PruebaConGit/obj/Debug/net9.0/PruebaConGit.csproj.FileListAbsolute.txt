@@ -1,0 +1,15 @@
+c:\Users\mauri\Desktop\VS\PruebaConGit\PruebaConGit\bin\Debug\net9.0\PruebaConGit.exe
+c:\Users\mauri\Desktop\VS\PruebaConGit\PruebaConGit\bin\Debug\net9.0\PruebaConGit.deps.json
+c:\Users\mauri\Desktop\VS\PruebaConGit\PruebaConGit\bin\Debug\net9.0\PruebaConGit.runtimeconfig.json
+c:\Users\mauri\Desktop\VS\PruebaConGit\PruebaConGit\bin\Debug\net9.0\PruebaConGit.dll
+c:\Users\mauri\Desktop\VS\PruebaConGit\PruebaConGit\bin\Debug\net9.0\PruebaConGit.pdb
+c:\Users\mauri\Desktop\VS\PruebaConGit\PruebaConGit\obj\Debug\net9.0\PruebaConGit.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mauri\Desktop\VS\PruebaConGit\PruebaConGit\obj\Debug\net9.0\PruebaConGit.AssemblyInfoInputs.cache
+c:\Users\mauri\Desktop\VS\PruebaConGit\PruebaConGit\obj\Debug\net9.0\PruebaConGit.AssemblyInfo.cs
+c:\Users\mauri\Desktop\VS\PruebaConGit\PruebaConGit\obj\Debug\net9.0\PruebaConGit.csproj.CoreCompileInputs.cache
+c:\Users\mauri\Desktop\VS\PruebaConGit\PruebaConGit\obj\Debug\net9.0\PruebaConGit.sourcelink.json
+c:\Users\mauri\Desktop\VS\PruebaConGit\PruebaConGit\obj\Debug\net9.0\PruebaConGit.dll
+c:\Users\mauri\Desktop\VS\PruebaConGit\PruebaConGit\obj\Debug\net9.0\refint\PruebaConGit.dll
+c:\Users\mauri\Desktop\VS\PruebaConGit\PruebaConGit\obj\Debug\net9.0\PruebaConGit.pdb
+c:\Users\mauri\Desktop\VS\PruebaConGit\PruebaConGit\obj\Debug\net9.0\PruebaConGit.genruntimeconfig.cache
+c:\Users\mauri\Desktop\VS\PruebaConGit\PruebaConGit\obj\Debug\net9.0\ref\PruebaConGit.dll

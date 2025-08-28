@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\mauri\\Desktop\\VS\\PruebaConGit\\PruebaConGit\\PruebaConGit.csproj": {}
+    "C:\\Users\\mauri\\Desktop\\VS\\PruebaConGit\\PruebaConGit\\PruebaConGit.csproj": {}
   },
   "projects": {
-    "c:\\Users\\mauri\\Desktop\\VS\\PruebaConGit\\PruebaConGit\\PruebaConGit.csproj": {
+    "C:\\Users\\mauri\\Desktop\\VS\\PruebaConGit\\PruebaConGit\\PruebaConGit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\mauri\\Desktop\\VS\\PruebaConGit\\PruebaConGit\\PruebaConGit.csproj",
+        "projectUniqueName": "C:\\Users\\mauri\\Desktop\\VS\\PruebaConGit\\PruebaConGit\\PruebaConGit.csproj",
         "projectName": "PruebaConGit",
-        "projectPath": "c:\\Users\\mauri\\Desktop\\VS\\PruebaConGit\\PruebaConGit\\PruebaConGit.csproj",
+        "projectPath": "C:\\Users\\mauri\\Desktop\\VS\\PruebaConGit\\PruebaConGit\\PruebaConGit.csproj",
         "packagesPath": "C:\\Users\\mauri\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\mauri\\Desktop\\VS\\PruebaConGit\\PruebaConGit\\obj\\",
+        "outputPath": "C:\\Users\\mauri\\Desktop\\VS\\PruebaConGit\\PruebaConGit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mauri\\AppData\\Roaming\\NuGet\\NuGet.Config"
